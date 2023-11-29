@@ -2,9 +2,9 @@
 
 - Final project for CS 102 - Data Structures & Algorithms.
 - Team Members:
-  - Huzaifah Tariq Ahmed
-  - Samiya Ali Zaidi
-  - Syed Hammad Razi
+  - Huzaifah Tariq Ahmed - Designed the dataset & access.
+  - Samiya Ali Zaidi - Designed the User Interface.
+  - Syed Hammad Razi - Designed the logic for finding the cheapest ticket.
     
 - Vision:
   - A simple application to find the cheapest available flights from the given dataset.
