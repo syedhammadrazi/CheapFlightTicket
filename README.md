@@ -7,7 +7,7 @@
   - Syed Hammad Razi
     
 - Vision:
- - A simple application to find the cheapest available flights from the given dataset.
+  - A simple application to find the cheapest available flights from the given dataset.
 
 ## Functionalities
 ### 1. Finding Cheapest Flight(s)
