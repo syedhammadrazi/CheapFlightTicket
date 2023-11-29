@@ -1,10 +1,13 @@
-# Find Cheapest Flight
+# Find The Cheapest Flight
 
-Final project for CS 102 - Data Structures and Algorithms.
-
-## Vision
-
-- A simple application to find the cheapest available flights from the dataset given.
+- Final project for CS 102 - Data Structures & Algorithms.
+- Team Members:
+  - Huzaifah Tariq Ahmed
+  - Samiya Ali Zaidi
+  - Syed Hammad Razi
+    
+- Vision:
+ - A simple application to find the cheapest available flights from the given dataset.
 
 ## Functionalities
 ### 1. Finding Cheapest Flight(s)
